@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Profile</h1>
-<img align="center" src="https://www.codewars.com/users/BynJerL/badges/large">
+<a href="https://www.codewars.com/users/BynJerL"><img align="center" src="https://www.codewars.com/users/BynJerL/badges/large"></a>
 
-<h5 align="left">I am interested in computer programming and robotics.</h5>
+<h3 align="left">I am interested in computer programming and robotics.</h3>
 
 
 
