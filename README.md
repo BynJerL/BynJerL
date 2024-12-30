@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bryan Jeremias Legihono</h1>
-<h3 align="center">Interested in computer programming and robotics.</h3>
+<h1 align="center">Welcome to My Profile</h1>
+<img align="center" src="https://www.codewars.com/users/BynJerL/badges/large">
 
-<img src="https://www.codewars.com/users/BynJerL/badges/large">
+<h5 align="left">I am interested in computer programming and robotics.</h5>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
