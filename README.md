@@ -1,5 +1,7 @@
 <h1 align="center">🔍 About Me</h1>
 
+![Banner](assets/banner.jpg)
+
 <p align="left">Hi! My name is Bryan Jeremias Legihono. I am interested in computer programming, embedded electronics, and robotics.</p>
 
 <h3 align="left">🚀 Check out my <em>Codewars</em> Account:</h3>
